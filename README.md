@@ -1,1 +1,3 @@
 This is my first project in the JavaScript 30 course. It is a drum kit that I revamped to use more keys and sounds. I also changed some css styling, fonts, and the background image to something a little **rustier**.
+
+The site is live at [http://rustiphyde-drumkit.netlify.com]
