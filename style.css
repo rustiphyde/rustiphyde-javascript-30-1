@@ -1,6 +1,6 @@
 html {
     font-size: 10px;
-    background: url('./images/rusty-warning.jpg') center;
+    background: url('do-not-enter.jpg') center;
     background-size: cover;
   }
   
@@ -13,7 +13,7 @@ html {
   .instruct {
       text-align: center;
       margin-top: 64px;
-      font-size: 32px;
+      font-size: 16px;
       color: #ff9800;
       text-shadow: 2px 2px 6px #361002;
       font-family: 'Rock Salt', cursive;
